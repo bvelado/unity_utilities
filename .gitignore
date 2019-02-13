@@ -1,0 +1,12 @@
+# UNITY
+Library/
+Temp/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# CODE
+*.sln
+*.csproj
+.vs/
+.vscode/
